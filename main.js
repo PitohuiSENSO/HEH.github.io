@@ -33,7 +33,7 @@ btnNo.addEventListener("click", (eqewe) => {
     imageFive.classList.add("hide");
   }else if (press == 2) {
     press = 3
-    document.getElementById("Text").innerHTML = "Maybe Should Think About it Some More... ;-;"
+    document.getElementById("Text").innerHTML = "Maybe You Should Think About it Some More... ;-;"
     imageOne.classList.add("hide");
     imageTwo.classList.add("hide");
     imageThree.classList.add("hide");
